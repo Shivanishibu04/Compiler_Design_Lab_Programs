@@ -13,7 +13,7 @@ To understand the design and implementation of the major components of a compile
 
 ---
 
-## ⚙️ List of Experiments (Execution Order)
+## ⚙️ List of Experiments 
 
 | No. | Experiment Title |
 |:--:|:--|
