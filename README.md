@@ -8,12 +8,6 @@ It also includes **extra programs** beyond the official syllabus.
 
 ---
 
-![Language](https://img.shields.io/badge/Language-C-blue?style=flat-square)
-![Tool](https://img.shields.io/badge/Tool-LEX%20%26%20YACC-orange?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-
 ## 🧠 Objective
 To understand the design and implementation of the major components of a compiler using **C**, **LEX**, and **YACC**, including lexical analysis, parsing, syntax-directed translation, intermediate code generation, and optimization.
 
