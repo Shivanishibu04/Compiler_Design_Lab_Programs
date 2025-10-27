@@ -4,8 +4,7 @@
 
 ## 📘 Overview
 This repository contains all the programs and experiments for the **CSL 411 Compiler Lab**.  
-The experiments cover key compiler phases — from lexical and syntax analysis to code optimization and DFA minimization.  
-It also includes **extra programs** beyond the official syllabus for extended learning.
+It also includes **extra programs** beyond the official syllabus.
 
 ---
 
@@ -35,18 +34,4 @@ To understand the design and implementation of the major components of a compile
 
 ---
 
-## 🧩 Tools & Technologies
-- **Language:** C  
-- **Compiler Tools:** LEX, YACC  
-- **Assembler:** 8086 Assembler  
-- **Environment:** Linux / GCC  
-
----
-
-## 🚀 How to Run
-
-### ▶️ For C Programs
-```bash
-gcc filename.c -o output
-./output
 
